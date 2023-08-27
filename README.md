@@ -28,3 +28,13 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram:
 ![architecture](https://github.com/Utsavrawar27/YouTube-Analysis-Project-Data-Engineering/assets/40047632/612297dd-7e41-4f61-900a-9ae95ae20ee5)
 
+## QuickSight Analytics Charts:
+
+![Sheet_1_2023-08-23T22_36_29_page-0001](https://github.com/Utsavrawar27/YouTube-Analysis-Project-Data-Engineering/assets/40047632/54db4e33-9b85-45ba-997f-73d487787e75)
+
+
+![Sheet_3_2023-08-23T22_37_09_page-0001](https://github.com/Utsavrawar27/YouTube-Analysis-Project-Data-Engineering/assets/40047632/c44049f5-955f-45c6-9ffa-cf9ced8e634b)
+
+
+![Sheet_4_2023-08-23T22_35_08_page-0001](https://github.com/Utsavrawar27/YouTube-Analysis-Project-Data-Engineering/assets/40047632/341d2e96-c9f1-4819-b83a-2fb010b2e2c3)
+
