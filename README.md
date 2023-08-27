@@ -23,4 +23,8 @@ The objective of this project is to build a data pipeline that can securely mana
 ## Dataset Used:
 The Kaggle dataset we have used contains data on daily trending YouTube videos for several months. The data is divided into separate files for each region. Each file contains information about the trending videos for that region, such as the video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count. The dataset also includes a JSON file for each region that maps the category_id field to the corresponding category name.
 
-(https://www.kaggle.com/datasets/datasnaek/youtube-new)
+https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+## Architecture Diagram:
+![architecture](https://github.com/Utsavrawar27/YouTube-Analysis-Project-Data-Engineering/assets/40047632/612297dd-7e41-4f61-900a-9ae95ae20ee5)
+
